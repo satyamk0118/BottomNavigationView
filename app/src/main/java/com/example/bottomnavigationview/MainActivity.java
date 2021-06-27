@@ -1,4 +1,4 @@
-package com.example.bottomnavigationview;
+git package com.example.bottomnavigationview;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
